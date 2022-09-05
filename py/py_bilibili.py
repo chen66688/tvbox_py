@@ -20,7 +20,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-                        "佛学": "佛学",
+                        "佛学": "佛学", 
+			"禅宗": "禅宗",
 			"天文": "天文",
 			"地理": "地理",
 			"宇宙": "宇宙",
