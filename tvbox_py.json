@@ -34,7 +34,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.iqiq.io/UndCover/PyramidStore/main/plugin/py_cctv.py"
+		"ext": "https://raw.iqiq.io/cuckookcuc/tvbox_py/main/py/py_cctv.py"
 	}, {
 		"key": "py_czspp",
 		"name": "厂长",
